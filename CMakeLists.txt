@@ -3,5 +3,5 @@ project(CS210_PA1)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(CS210_PA1 cmake-build-debug/main.cpp
+add_executable(CS210_PA1 main.cpp
 )
